@@ -1,5 +1,4 @@
 import Container from "../components/Container";
-import ProductsGrid from "../components/elements/ProductsGrid";
 
 export default function Home() {
   return (
